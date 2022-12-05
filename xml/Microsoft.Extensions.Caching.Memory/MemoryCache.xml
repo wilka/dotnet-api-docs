@@ -367,7 +367,7 @@
       </Parameters>
       <Docs>
         <param name="key">An object identifying the entry.</param>
-        <summary>Removes the object associated with the given key.</summary>
+        <summary>Removes the object associated with the given key, if that key exists. Otherwise has no effect.</summary>
         <remarks>To be added.</remarks>
         <inheritdoc />
       </Docs>
